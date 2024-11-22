@@ -1,0 +1,125 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2024-01-19T15:00:00Z,VX14G24,14.6,-44,Market,Filled,-642.4,spread  = mean + 2.1*sigma (diversion) 
+2024-01-19T15:00:00Z,VX20H24,15.75,38,Market,Filled,598.5,spread = mean + 2.1*sigma  (diversion) 
+2024-01-29T15:00:00Z,VX14G24,14.25,44,Market,Filled,627,Mean Reversion; Loss 
+2024-01-29T15:00:00Z,VX20H24,15.2,-38,Market,Filled,-577.6,Mean Reversion; Loss 
+2024-02-07T15:00:00Z,VX14G24,13.4,-45,Market,Filled,-603,spread  = mean + 1.87*sigma (diversion) 
+2024-02-07T15:00:00Z,VX20H24,14.65,37,Market,Filled,542.05,spread = mean + 1.87*sigma  (diversion) 
+2024-02-12T15:00:00Z,VX14G24,13.45,45,Market,Filled,605.25,rollover; Win 
+2024-02-12T15:00:00Z,VX20H24,14.65,-37,Market,Filled,-542.05,rollover; Win 
+2024-02-15T15:00:00Z,VX20H24,15,-44,Market,Filled,-660,spread  = mean + 2.01*sigma (diversion) 
+2024-02-15T15:00:00Z,VX17J24,15.95,37,Market,Filled,590.15,spread = mean + 2.01*sigma  (diversion) 
+2024-02-20T15:00:00Z,VX17J24,16.25,-37,Market,Filled,-601.25,Mean Reversion; Loss 
+2024-02-20T15:00:00Z,VX20H24,15.45,44,Market,Filled,679.8,Mean Reversion; Loss 
+2024-02-23T16:00:00Z,VX20H24,14.6,-44,Market,Filled,-642.4,spread  = mean + 2.25*sigma (diversion) 
+2024-02-23T16:00:00Z,VX17J24,15.6,36,Market,Filled,561.6,spread = mean + 2.25*sigma  (diversion) 
+2024-03-05T15:00:00Z,VX17J24,15.35,-36,Market,Filled,-552.6,Mean Reversion; Loss 
+2024-03-05T15:00:00Z,VX20H24,14.55,44,Market,Filled,640.2,Mean Reversion; Loss 
+2024-03-08T15:00:00Z,VX20H24,14.3,-45,Market,Filled,-643.5,spread  = mean + 2.0*sigma (diversion) 
+2024-03-08T15:00:00Z,VX17J24,15.4,35,Market,Filled,539,spread = mean + 2.0*sigma  (diversion) 
+2024-03-08T18:00:00Z,VX17J24,16.2,-35,Market,Filled,-567,Mean Reversion; Loss 
+2024-03-08T18:00:00Z,VX20H24,15.45,45,Market,Filled,695.25,Mean Reversion; Loss 
+2024-03-12T15:00:00Z,VX20H24,14.1,44,Market,Filled,620.4,spread  = mean + 2.42*sigma (mean reversion) 
+2024-03-12T15:00:00Z,VX17J24,15.15,-34,Market,Filled,-515.1,spread = mean + 2.42*sigma  (mean reversion) 
+2024-03-15T14:00:00Z,VX17J24,15.65,34,Market,Filled,532.1,Mean Reversion; Win 
+2024-03-15T14:00:00Z,VX20H24,14.7,-44,Market,Filled,-646.8,Mean Reversion; Win 
+2024-03-21T14:00:00Z,VX17J24,14.45,44,Market,Filled,635.8,spread  = mean + 2.97*sigma (mean reversion) 
+2024-03-21T14:00:00Z,VX22K24,15.45,-34,Market,Filled,-525.3,spread = mean + 2.97*sigma  (mean reversion) 
+2024-04-02T14:00:00Z,VX17J24,15.4,-44,Market,Filled,-677.6,Mean Reversion; Win 
+2024-04-02T14:00:00Z,VX22K24,16.1,34,Market,Filled,547.4,Mean Reversion; Win 
+2024-04-12T15:00:00Z,VX17J24,17.65,-49,Market,Filled,-864.85,spread < mean - 2.46*sigma (mean reversion) 
+2024-04-12T15:00:00Z,VX22K24,17.7,32,Market,Filled,566.4,spread < mean - 2.46*sigma (mean reversion) 
+2024-04-15T14:00:00Z,VX17J24,16.15,49,Market,Filled,791.35,rollover; Win 
+2024-04-15T14:00:00Z,VX22K24,16.55,-32,Market,Filled,-529.6,rollover; Win 
+2024-04-18T17:00:00Z,VX22K24,17.25,48,Market,Filled,828,spread < mean - 1.03*sigma (diversion) 
+2024-04-18T17:00:00Z,VX18M24,17.55,-35,Market,Filled,-614.25,spread < mean - 1.03*sigma (diversion) 
+2024-04-19T17:00:00Z,VX18M24,17.9,35,Market,Filled,626.5,Diversion; Win 
+2024-04-19T17:00:00Z,VX22K24,17.7,-48,Market,Filled,-849.6,Diversion; Win 
+2024-04-19T17:00:00Z,VX22K24,17.7,-48,Market,Filled,-849.6,spread  = mean - 2.0*sigma (mean_revesion) 
+2024-04-19T17:00:00Z,VX18M24,17.9,36,Market,Filled,644.4,spread = mean - 2.0*sigma (mean_reversion) 
+2024-04-22T18:00:00Z,VX18M24,16.7,-36,Market,Filled,-601.2,Mean Reversion; Win 
+2024-04-22T18:00:00Z,VX22K24,16.35,48,Market,Filled,784.8,Mean Reversion; Win 
+2024-04-25T14:00:00Z,VX22K24,16.75,-49,Market,Filled,-820.75,spread < mean - 2.7*sigma (mean reversion) 
+2024-04-25T14:00:00Z,VX18M24,16.85,37,Market,Filled,623.45,spread < mean - 2.7*sigma (mean reversion) 
+2024-04-26T17:00:00Z,VX18M24,15.8,-37,Market,Filled,-584.6,Mean Reversion; Win 
+2024-04-26T17:00:00Z,VX22K24,15.4,49,Market,Filled,754.6,Mean Reversion; Win 
+2024-05-01T14:00:00Z,VX22K24,15.9,50,Market,Filled,795,spread < mean - 1.63*sigma (diversion) 
+2024-05-01T14:00:00Z,VX18M24,16.1,-38,Market,Filled,-611.8,spread < mean - 1.63*sigma (diversion) 
+2024-05-20T14:00:00Z,VX18M24,13.55,38,Market,Filled,514.9,rollover; Loss 
+2024-05-20T14:00:00Z,VX22K24,12.45,-50,Market,Filled,-622.5,rollover; Loss 
+2024-05-23T14:00:00Z,VX18M24,13.6,-43,Market,Filled,-584.8,spread  = mean + 1.85*sigma (diversion) 
+2024-05-23T14:00:00Z,VX17N24,14.5,38,Market,Filled,551,spread = mean + 1.85*sigma  (diversion) 
+2024-05-23T17:00:00Z,VX17N24,14.4,-38,Market,Filled,-547.2,Diversion; Win 
+2024-05-23T17:00:00Z,VX18M24,13.5,43,Market,Filled,580.5,Diversion; Win 
+2024-05-23T17:00:00Z,VX18M24,13.5,43,Market,Filled,580.5,spread  = mean + 2.58*sigma (mean_revesion) 
+2024-05-23T17:00:00Z,VX17N24,14.4,-38,Market,Filled,-547.2,spread = mean + 2.58*sigma (mean_reversion) 
+2024-05-23T18:00:00Z,VX17N24,14.7,38,Market,Filled,558.6,Mean Reversion; Win 
+2024-05-23T18:00:00Z,VX18M24,13.85,-43,Market,Filled,-595.55,Mean Reversion; Win 
+2024-05-24T14:00:00Z,VX18M24,13.7,-43,Market,Filled,-589.1,spread  = mean + 2.1*sigma (diversion) 
+2024-05-24T14:00:00Z,VX17N24,14.6,39,Market,Filled,569.4,spread = mean + 2.1*sigma  (diversion) 
+2024-05-28T19:00:00Z,VX17N24,14.55,-39,Market,Filled,-567.45,Mean Reversion; Loss 
+2024-05-28T19:00:00Z,VX18M24,13.8,43,Market,Filled,593.4,Mean Reversion; Loss 
+2024-05-31T16:00:00Z,VX18M24,14.5,43,Market,Filled,623.5,spread < mean - 0.98*sigma (diversion) 
+2024-05-31T16:00:00Z,VX17N24,15.05,-38,Market,Filled,-571.9,spread < mean - 0.98*sigma (diversion) 
+2024-06-17T14:00:00Z,VX17N24,14.6,38,Market,Filled,554.8,rollover; Loss 
+2024-06-17T14:00:00Z,VX18M24,13.15,-43,Market,Filled,-565.45,rollover; Loss 
+2024-06-20T14:00:00Z,VX17N24,14.35,42,Market,Filled,602.7,spread  = mean + 2.62*sigma (mean reversion) 
+2024-06-20T14:00:00Z,VX21Q24,15.25,-37,Market,Filled,-564.25,spread = mean + 2.62*sigma  (mean reversion) 
+2024-06-20T15:00:00Z,VX17N24,14.4,-42,Market,Filled,-604.8,Diversion; Win 
+2024-06-20T15:00:00Z,VX21Q24,15.4,37,Market,Filled,569.8,Diversion; Win 
+2024-06-20T15:00:00Z,VX17N24,14.45,41,Market,Filled,592.45,spread  = mean + 2.41*sigma (mean_revesion) 
+2024-06-20T15:00:00Z,VX21Q24,15.35,-36,Market,Filled,-552.6,spread = mean + 2.41*sigma (mean_reversion) 
+2024-07-15T14:00:00Z,VX17N24,12.8,-41,Market,Filled,-524.8,rollover; Loss 
+2024-07-15T14:00:00Z,VX21Q24,13.9,36,Market,Filled,500.4,rollover; Loss 
+2024-07-24T19:00:00Z,VX21Q24,16.7,42,Market,Filled,701.4,spread < mean - 1.06*sigma (diversion) 
+2024-07-24T19:00:00Z,VX18U24,17.1,-34,Market,Filled,-581.4,spread < mean - 1.06*sigma (diversion) 
+2024-08-01T16:00:00Z,VX18U24,17.5,34,Market,Filled,595,Diversion; Win 
+2024-08-01T16:00:00Z,VX21Q24,17.15,-42,Market,Filled,-720.3,Diversion; Win 
+2024-08-01T16:00:00Z,VX21Q24,17.15,-43,Market,Filled,-737.45,spread  = mean - 1.78*sigma (mean_revesion) 
+2024-08-01T16:00:00Z,VX18U24,17.5,34,Market,Filled,595,spread = mean - 1.78*sigma (mean_reversion) 
+2024-08-15T14:00:00Z,VX18U24,15.85,-34,Market,Filled,-538.9,Mean Reversion; Win 
+2024-08-15T14:00:00Z,VX21Q24,15.6,43,Market,Filled,670.8,Mean Reversion; Win 
+2024-09-03T15:00:00Z,VX18U24,17.35,46,Market,Filled,798.1,spread < mean - 0.93*sigma (diversion) 
+2024-09-03T15:00:00Z,VX16V24,18.65,-31,Market,Filled,-578.15,spread < mean - 0.93*sigma (diversion) 
+2024-09-04T19:00:00Z,VX16V24,20.75,31,Market,Filled,643.25,Diversion; Win 
+2024-09-04T19:00:00Z,VX18U24,19.95,-46,Market,Filled,-917.7,Diversion; Win 
+2024-09-04T19:00:00Z,VX18U24,19.95,-49,Market,Filled,-977.55,spread  = mean - 1.74*sigma (mean_revesion) 
+2024-09-04T19:00:00Z,VX16V24,20.75,33,Market,Filled,684.75,spread = mean - 1.74*sigma (mean_reversion) 
+2024-09-12T18:00:00Z,VX16V24,18.55,-33,Market,Filled,-612.15,Mean Reversion; Win 
+2024-09-12T18:00:00Z,VX18U24,16.9,49,Market,Filled,828.1,Mean Reversion; Win 
+2024-10-03T15:00:00Z,VX16V24,21,51,Market,Filled,1071,spread < mean - 0.98*sigma (diversion) 
+2024-10-03T15:00:00Z,VX20X24,19.65,-37,Market,Filled,-727.05,spread < mean - 0.98*sigma (diversion) 
+2024-10-07T19:00:00Z,VX16V24,22.25,-51,Market,Filled,-1134.75,Diversion; Win 
+2024-10-07T19:00:00Z,VX20X24,20.55,37,Market,Filled,760.35,Diversion; Win 
+2024-10-07T19:00:00Z,VX16V24,22.25,-53,Market,Filled,-1179.25,spread  = mean - 1.69*sigma (mean_revesion) 
+2024-10-07T19:00:00Z,VX20X24,20.55,38,Market,Filled,780.9,spread = mean - 1.69*sigma (mean_reversion) 
+2024-10-14T14:00:00Z,VX16V24,20.7,53,Market,Filled,1097.1,rollover; Win 
+2024-10-14T14:00:00Z,VX20X24,18.9,-38,Market,Filled,-718.2,rollover; Win 
+2024-10-17T14:00:00Z,VX20X24,19,50,Market,Filled,950,spread < mean - 0.96*sigma (diversion) 
+2024-10-17T14:00:00Z,VX18Z24,18.45,-43,Market,Filled,-793.35,spread < mean - 0.96*sigma (diversion) 
+2024-10-23T18:00:00Z,VX18Z24,18.7,43,Market,Filled,804.1,Diversion; Win 
+2024-10-23T18:00:00Z,VX20X24,19.35,-50,Market,Filled,-967.5,Diversion; Win 
+2024-10-23T18:00:00Z,VX20X24,19.35,-50,Market,Filled,-967.5,spread  = mean - 1.75*sigma (mean_revesion) 
+2024-10-23T18:00:00Z,VX18Z24,18.7,43,Market,Filled,804.1,spread = mean - 1.75*sigma (mean_reversion) 
+2024-10-25T14:00:00Z,VX18Z24,18.1,-43,Market,Filled,-778.3,Mean Reversion; Win 
+2024-10-25T14:00:00Z,VX20X24,18.55,50,Market,Filled,927.5,Mean Reversion; Win 
+2024-10-25T16:00:00Z,VX20X24,19,51,Market,Filled,969,spread < mean - 0.94*sigma (diversion) 
+2024-10-25T16:00:00Z,VX18Z24,18.4,-43,Market,Filled,-791.2,spread < mean - 0.94*sigma (diversion) 
+2024-10-25T18:00:00Z,VX18Z24,18.9,43,Market,Filled,812.7,Diversion; Win 
+2024-10-25T18:00:00Z,VX20X24,19.55,-51,Market,Filled,-997.05,Diversion; Win 
+2024-10-25T18:00:00Z,VX20X24,19.55,-51,Market,Filled,-997.05,spread  = mean - 1.68*sigma (mean_revesion) 
+2024-10-25T18:00:00Z,VX18Z24,18.9,43,Market,Filled,812.7,spread = mean - 1.68*sigma (mean_reversion) 
+2024-10-29T15:00:00Z,VX18Z24,18.05,-43,Market,Filled,-776.15,Mean Reversion; Win 
+2024-10-29T15:00:00Z,VX20X24,18.6,51,Market,Filled,948.6,Mean Reversion; Win 
+2024-10-30T14:00:00Z,VX20X24,18.85,52,Market,Filled,980.2,spread < mean - 0.89*sigma (diversion) 
+2024-10-30T14:00:00Z,VX18Z24,18.2,-44,Market,Filled,-800.8,spread < mean - 0.89*sigma (diversion) 
+2024-10-30T20:00:00Z,VX18Z24,18.55,44,Market,Filled,816.2,Diversion; Win 
+2024-10-30T20:00:00Z,VX20X24,19.25,-52,Market,Filled,-1001,Diversion; Win 
+2024-10-31T14:00:00Z,VX20X24,20.1,-52,Market,Filled,-1045.2,spread < mean - 2.41*sigma (mean reversion) 
+2024-10-31T14:00:00Z,VX18Z24,19.25,44,Market,Filled,847,spread < mean - 2.41*sigma (mean reversion) 
+2024-11-05T16:00:00Z,VX18Z24,18.05,-44,Market,Filled,-794.2,Mean Reversion; Win 
+2024-11-05T16:00:00Z,VX20X24,18.6,52,Market,Filled,967.2,Mean Reversion; Win 
+2024-11-07T15:00:00Z,VX20X24,15.75,-54,Market,Filled,-850.5,spread  = mean + 2.03*sigma (diversion) 
+2024-11-07T15:00:00Z,VX18Z24,15.95,44,Market,Filled,701.8,spread = mean + 2.03*sigma  (diversion) 
+2024-11-15T17:00:00Z,VX18Z24,16.25,-44,Market,Filled,-715,Mean Reversion; Loss 
+2024-11-15T17:00:00Z,VX20X24,16.6,54,Market,Filled,896.4,Mean Reversion; Loss 
